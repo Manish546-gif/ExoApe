@@ -27,7 +27,7 @@ Exo Ape is a global digital design studio that partners with brands and business
 
 ```bash
 
-git clone https://github.com/yourusername/exoape-portfolio.git
+git clone https://github.com/Manish546-gif/ExoApe.git
 
 # Navigate to project directory
 cd exoape-portfolio
