@@ -44,7 +44,7 @@ function Landing() {
             })}
           </div>
           <div className="headings mt-5 sm:mt-10 overflow-hidden">
-            {["Digital", "Disign", "Experience"].map((item, index) => {
+            {["Digital", "Design", "Experience"].map((item, index) => {
               return (
                 <h1 className="text-6xl tracking-tighter font-light leading-none sm:-mt-20 sm:py-8 py-2 sm:text-[14rem] overflow-hidden  ">
                   <motion.span
